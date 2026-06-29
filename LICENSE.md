@@ -1,4 +1,4 @@
-# 
+# Officiel KeePass modèles pour Mac OS | Personnalisé KeePass modèles pour PC Windows. Avec bloqueur de traqueurs et obfuscation — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
